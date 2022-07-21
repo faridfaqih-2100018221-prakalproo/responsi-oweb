@@ -78,4 +78,5 @@
 		}
 	} 
 	echo '</table>';
+	echo "<center a href = 'index.html'></a>";
 ?>
